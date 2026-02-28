@@ -50,12 +50,7 @@
 ---
 
 ## 🖥️ Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=juhisinha422&theme=onedark" />
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black
 
 ---
 
