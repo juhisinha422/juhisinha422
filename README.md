@@ -62,7 +62,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 
 ![GitHub Snake](https://raw.githubusercontent.com/juhisinha422/juhisinha422/output/github-contribution-grid-snake.svg)
