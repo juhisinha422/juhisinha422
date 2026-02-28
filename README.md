@@ -63,8 +63,9 @@
 ---
 
 ## 📈 Activity Graph
-![Juhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juhisinha422&theme=github-compact)
 
+
+![GitHub Snake](https://raw.githubusercontent.com/juhisinha422/juhisinha422/output/github-contribution-grid-snake.svg)
 ---
 
 ⭐ If you like my work, feel free to star my repositories!
