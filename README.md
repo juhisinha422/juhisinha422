@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 - 🌱 Currently learning **Kubernetes, Helm Charts, ArgoCD, Prometheus, Grafana, Observability (O11Y), Terraform, Python, Docker**
 - 💬 Ask me about **AWS, Terraform, GitHub Actions, CI/CD, Docker, Kubernetes**
