@@ -49,6 +49,19 @@
 
 ---
 
+### 🖥️ Operating Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+
+---
+
+## 🏆 GitHub Trophies
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SukhbirSinghKhalsa" alt="GitHub Trophies" />
+  </a>
+
+---
+
 ## 📈 Activity Graph
 ![Juhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juhisinha422&theme=github-compact)
 
