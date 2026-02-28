@@ -1,4 +1,4 @@
-# Hi 👋, I'm Juhi Sinha  
+# Hi, I'm Juhi Sinha  
 <img src="https://komarev.com/ghpvc/?username=juhisinha422&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ### 🚀 A Curious DevOps Engineer from India
@@ -46,11 +46,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 🖥️ Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black
 
 ---
 
