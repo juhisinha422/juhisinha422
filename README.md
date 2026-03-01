@@ -68,10 +68,7 @@ Check out my full profile: https://topmate.io/juhi_sinha12
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juhisinha422&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
+![](https://github-profile-trophy.vercel.app/?username=juhisinha422&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ## 📈 Contribution Graph
