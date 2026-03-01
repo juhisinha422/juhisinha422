@@ -17,6 +17,33 @@
 
 ---
 
+## Technical Skills 🛠 
+
+<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+ ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+ ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+ ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+ ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+ ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+ ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+ [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+ [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+ [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+
+
 ##  📄 Know about my experiences 
 Check out my full profile: https://topmate.io/juhi_sinha12
 
