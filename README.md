@@ -2,19 +2,13 @@
 <img src="https://komarev.com/ghpvc/?username=juhisinha422&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🚀 A Curious DevOps Engineer from India
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-
 ---
 
-
 ## 👩‍💻 About Me
-
-
 
 - 🌱 Currently learning **Kubernetes, Helm Charts, ArgoCD, Prometheus, Grafana, Observability (O11Y), Terraform, Python, Docker**
 - 💬 Ask me about **AWS, Terraform, GitHub Actions, CI/CD, Docker, Kubernetes**
