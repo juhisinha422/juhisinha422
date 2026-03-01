@@ -1,3 +1,6 @@
+
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
 # Hi, I'm Juhi Sinha  
 <img src="https://komarev.com/ghpvc/?username=juhisinha422&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
