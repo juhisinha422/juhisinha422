@@ -57,6 +57,7 @@ Check out my full profile: https://topmate.io/juhi_sinha12
   </a>
     <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 </p>
+</p>
 
 ---
 
