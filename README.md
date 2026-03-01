@@ -68,4 +68,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/juhisinha422/juhisinha422/output/github-contribution-grid-snake.svg)
 ---
 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]buymeacoffee.com/juhisinha
+
 ⭐ If you like my work, feel free to star my repositories!
