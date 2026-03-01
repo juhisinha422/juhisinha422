@@ -1,74 +1,86 @@
-# Hi, I'm Juhi Sinha  
-<img src="https://komarev.com/ghpvc/?username=juhisinha422&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+# Hi, I'm Juhi Sinha 👋
 
-### 🚀 A Curious DevOps Engineer from India
+### 🚀 DevOps Engineer | Cloud & Infrastructure Enthusiast | CI/CD Specialist
+
+<img src="https://komarev.com/ghpvc/?username=juhisinha422&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Kubernetes, Helm Charts, ArgoCD, Prometheus, Grafana, Observability (O11Y), Terraform, Python, Docker**
-- 💬 Ask me about **AWS, Terraform, GitHub Actions, CI/CD, Docker, Kubernetes**
-- 📫 Reach me at: **juhisinha422@gmail.com**
-- ⚡ Interested in building scalable cloud infrastructure & production-grade deployments
-- 📖 Open to: **Freelancing, Open Source Contributions, Contract Projects**
+I’m a DevOps Engineer passionate about building scalable, secure, and automated cloud infrastructure.
+
+- ☁️ Designing cloud solutions on AWS
+- ⚙️ Automating infrastructure using Terraform
+- 🚀 Deploying containerized workloads with Docker & Kubernetes
+- 🔄 Implementing GitOps workflows using ArgoCD
+- 📊 Monitoring systems using Prometheus & Grafana
+- 🐍 Writing automation scripts in Python
+
+💡 Strong believer in *Infrastructure as Code, Automation First, and Observability-Driven Engineering.*
+
+📫 Contact: juhisinha422@gmail.com  
+💼 Open to: Freelancing | Contract Roles | DevOps Opportunities  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
-    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="40" height="40"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, S3, IAM, VPC, RDS, EKS)
+- Terraform
+- Helm
+- ArgoCD
+
+### 🚀 Containerization & Orchestration
+- Docker
+- Kubernetes
+- Amazon EKS
+
+### 🔄 CI/CD & Automation
+- GitHub Actions
+- Jenkins (Multibranch Pipelines)
+- GitOps Workflows
+- Bash & Python
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- Logging & Metrics Analysis
 
 ---
 
-### 🖥️ Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+## 🏗️ What I Build
+
+✔ Production-Grade CI/CD Pipelines  
+✔ Automated Infrastructure Deployments  
+✔ Kubernetes-Based Application Architectures  
+✔ Monitoring & Alerting Systems  
+✔ Secure and Cost-Optimized Cloud Environments  
 
 ---
 
-## 🏆 GitHub Trophies
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SukhbirSinghKhalsa" alt="GitHub Trophies" />
-  </a>
+## 📈 GitHub Stats
+
+![Juhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhisinha422&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juhisinha422&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Graph
+## 🖥️ Operating Systems
 
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-![GitHub Snake](https://raw.githubusercontent.com/juhisinha422/juhisinha422/output/github-contribution-grid-snake.svg)
 ---
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/juhisinha)
+## 🌍 Let’s Connect
 
-⭐ If you like my work, feel free to star my repositories!
+- 📧 Email: juhisinha422@gmail.com  
+- 💻 GitHub: https://github.com/juhisinha422  
+- ☕ Support: https://buymeacoffee.com/juhisinha  
+
+---
+
+⭐ If you like my work, feel free to star my repositories.
