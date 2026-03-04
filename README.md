@@ -46,7 +46,8 @@
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
-
+<br><br><br><br><br><br><br><br>
+---
 
 ##  📄 Know about my experiences 
 Check out my full profile: https://topmate.io/juhi_sinha12
