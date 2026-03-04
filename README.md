@@ -50,8 +50,10 @@
 ---
 
 ##  📄 Know about my experiences 
+<br>
 Check out my full profile: https://topmate.io/juhi_sinha12
-
+<br>
+---
 
 ## 🛠️ Languages and Tools
 
