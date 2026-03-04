@@ -21,13 +21,17 @@
 
 ---
 
-## Technical Skills 🛠 
+## Technical Skills 🛠
 
-<p align="center">
-<img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250'>
-</p>
+<table>
+<tr>
+<td width="40%">
 
-<br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
+
+</td>
+
+<td width="60%">
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -50,6 +54,10 @@
 [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+
+</td>
+</tr>
+</table>
 
 ---
 
