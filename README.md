@@ -24,7 +24,7 @@
 ## Technical Skills 🛠 
 
 <p align="center">
-<img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250'>
+<img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='350'>
 </p>
 
 <br>
