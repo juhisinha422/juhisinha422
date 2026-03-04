@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="80%">
+<td width="50%">
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
 
