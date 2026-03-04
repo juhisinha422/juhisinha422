@@ -100,8 +100,12 @@ Check out my full profile 👇
 
 ### 🖥️ Operating Systems  
 
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
+<p align="left">
+  
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+</p>
 
 ---
 
