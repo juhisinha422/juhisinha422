@@ -16,7 +16,7 @@
 - 📫 Reach me at: **juhisinha422@gmail.com**
 - ⚡ Interested in building scalable cloud infrastructure & production-grade deployments
 - 📖 Open to: **Freelancing, Open Source Contributions, Contract Projects**
-- Portfolio: - https://juhisinha422.github.io/Juhi_Sinha.github.io-portfolio
+- **Portfolio: -** https://juhisinha422.github.io/Juhi_Sinha.github.io-portfolio
 
 <br clear="right"/>
 
