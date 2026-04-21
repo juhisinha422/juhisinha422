@@ -74,7 +74,7 @@ Check out my full profile 👇
 
 ## 🛠️ Languages and Tools
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
   <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://github.com/niharicka2602/niharicka2602/blob/main/openshift%20logo.png" width="40" height="40"/></a>
