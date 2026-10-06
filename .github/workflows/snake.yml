@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-24.04        # pinned, avoids the Ubuntu 26 migration surprise
+    runs-on: ubuntu-24.04       
     timeout-minutes: 10          # stops a stuck job from hanging forever
     steps:
       - name: Checkout
