@@ -10,13 +10,14 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04        # pinned, avoids the Ubuntu 26 migration surprise
+    timeout-minutes: 10          # stops a stuck job from hanging forever
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3   # lighter version, no Docker needed
         with:
           github_user_name: juhisinha422
           outputs: |
